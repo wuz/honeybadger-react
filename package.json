@@ -1,6 +1,6 @@
 {
   "name": "honeybadger-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React library support for Honeybadger.io",
   "main": "lib/index.js",
   "scripts": {

@@ -1,0 +1,9 @@
+body {
+  font-family: 'Menlo', monospace;
+  line-height: 1.7;
+  color: #444;
+  background-color: #fafafa;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}

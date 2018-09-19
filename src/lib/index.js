@@ -20,7 +20,6 @@ class HoneybadgerReact extends Component {
     };
   }
   componentDidCatch(error, info) {
-    console.log(error, info);
     const { client, beforeNotify } = this.props;
     if (beforeNotify) client.beforeNotify(beforeNotify);
     client.setContext(info);

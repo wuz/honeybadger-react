@@ -53,4 +53,4 @@ See the [example](example) for more info.
 
 ## License
 
-The honeybadger-react JS library is free software released under the MIT License. See [LICENSE.txt](LICENSE.txt) for details.
+The honeybadger-react JS library is free software released under the MIT License. See [LICENSE](LICENSE) for details.
